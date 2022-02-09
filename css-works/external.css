@@ -1,0 +1,14 @@
+
+body{ 
+    background-color: seagreen;
+
+}
+h1{
+    color: rgb(209, 78, 78);
+ }
+ div{ 
+    background-color:blueviolet;
+    height: 300px;
+    width: 800px;
+    border: rgb(9, 10, 10) 20px solid;
+ }

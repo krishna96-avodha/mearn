@@ -1,0 +1,57 @@
+<h2>Athlete Registration Form</h2><br>
+    <p>Thank you for signing up at our club. Please fill in ypur information and we will contact you shortly to complete your mmbership</p><br>
+    <label for="name">Athlete's Name</label><br>
+     <input type="text" id="name" placeholder="first name"><input type="text" name="" id="name" placeholder="last name"><br><br>
+    
+     <label for="">DOB</label><br>
+     <input type="date" name="" id=""><br><br>
+
+     <label for="mail">Email</label><br>
+    <input type="email" id="mail"><br>
+
+    <label for="">Phone</label><br>
+    <input type="text" id="" placeholder="###########"><br><br>
+
+    <label for="ad"> mailing address</label><br>
+    <input type="text" id="ad" placeholder="street address"><br><br>
+
+    <label for="ad"></label>
+    <input type="text" id="" placeholder="city">  
+    <label for="ad"></label>
+    <input type="text" id="" placeholder="Region"><br>
+    <label for="ad"></label>
+    <input type="text" id="" placeholder="Postal/Zip code">    
+    <select name="" id="gr">
+        <option value="">Romania</option>
+        <option value="">India</option>
+        <option value="">Europ</option>
+        
+
+        </select><br><br>
+
+    <label for="">gender</label><br>
+    <label for="ma">male</label><input type="radio" id="ma" name="gender">
+    <label for="fe">female</label><input type="radio" id="fe" name="gender"><br><br>
+
+    <label for="">Height</label>
+       <label for="">Weight</label><br>
+       <input type="number" id="" > 
+
+        <input type="number" id=" "> <br><br>
+
+        <label for="">Does th Athlete have a history of chronic illness?</label><br>
+    <input type="radio" id="ma" name="gender"><label for="ma">yes</label>
+  <input type="radio" id="fe" name="gender">  <label for="fe">no</label><br><br>
+
+    <label for="">Does th Athlete have any allergies?</label><br>
+    <input type="radio" id="ma" name="gender"><label for="ma">yes</label><br>
+    <input type="radio" id="fe" name="gender"><label for="fe">no</label>
+
+
+
+  <center>  <button type="submit" >Register</button></center>
+
+
+
+
+

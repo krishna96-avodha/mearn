@@ -1,0 +1,5 @@
+
+        window.$mediavine = window.$mediavine || {};
+        window.$mediavine.web = window.$mediavine.web || {};
+        window.$mediavine.web.keywords = {"status":"PROCESSED","sales_kw":"classic coffee cocktails,coffee,irish cream,whiskey,vodka,recipe,milk,potent drink,simple syrup,touch,kahlua,rum,tequila,brandy,hot water","sales_cat":"211,210","sales_safety":"GGT3"};
+      

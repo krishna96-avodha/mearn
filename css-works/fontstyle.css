@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Open+Sans+Condensed:wght@300&family=Pushster&family=Roboto+Slab:wght@100&family=Vujahday+Script&display=swap');
+
+h1{
+    font-family: 'Vujahday Script', cursive;
+    
+ }
+p{
+    font-family: 'Pushster', cursive;
+}
+body{
+    background-image: url(./images/book2.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}

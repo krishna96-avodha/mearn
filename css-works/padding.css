@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(189, 63, 122);
+    width: 1000;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 300px;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* padding */
+    /* padding-left: ;
+    padding-top: ;
+    padding-right: ;
+    padding-bottom: ; */
+}
+p{
+    color: chartreuse;
+}
+h1{
+    color: rgb(55, 58, 214);
+    text-emphasis: none;
+    text-align:left;
+}
+div h1{
+    color: rgb(152, 227, 250);
+    text-emphasis: none;
+    text-align:center;
+}

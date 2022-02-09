@@ -1,0 +1,122 @@
+body{
+   background-color:black
+}
+div{
+    height: 100px;
+    width: 50px;
+}
+#box1{
+    margin-top: 91px;
+    margin-left: 631px;
+    background-color: violet;
+}
+#box2{
+    margin-top: -100px;
+    margin-left: 575px;
+    background-color:blue;
+}
+#box3{
+    margin-top: -99px;
+    margin-left: 685px;
+    background-color: chartreuse;
+}
+#box4{
+    margin-top: -99px;
+    margin-left: 520px;
+    background-color:gray;
+}
+#box5{
+    margin-top: -100px;
+    margin-left: 464px;
+    background-color:paleturquoise;
+}
+
+
+
+
+
+#box6{
+    margin-top: 6px;
+    margin-left: 464px;
+    background-color: rgb(182, 8, 182);
+}
+#box7{
+    margin-top: -101px;
+    margin-left: 575px;
+    background-color:rgb(216, 41, 123);
+}
+#box8{
+    margin-top: -101px;
+    margin-left: 740px;
+    background-color: rgb(152, 168, 132);
+}
+#box9{
+    margin-top: -99px;
+    margin-left: 520px;
+    background-color:rgb(165, 170, 209);
+}
+#box10{
+    margin-top: -101px;
+    margin-left: 409px;
+    background-color:rgb(35, 92, 38);
+}
+#box11{
+    margin-top: -99px;
+    margin-left: 631px;
+    background-color:rgba(103, 177, 54, 0.726);
+}
+#box12{
+    margin-top: -100px;
+    margin-left: 685px;
+    background-color:rgb(248, 14, 178);
+}
+
+
+
+#box13{
+    margin-top: 5px;
+    margin-left: 354px;
+    background-color:rgb(233, 20, 20);
+}
+
+
+#box14{
+    margin-top: -99px;
+    margin-left: 464px;
+    background-color: rgb(160, 144, 247);
+}
+ #box15{
+    margin-top: -101px;
+    margin-left: 575px;
+    background-color:rgb(44, 12, 185);
+}
+#box16{
+    margin-top: -101px;
+    margin-left: 740px;
+    background-color: rgb(131, 221, 21);
+}
+#box17{
+    margin-top: -99px;
+    margin-left: 520px;
+    background-color:rgb(158, 172, 146);
+}
+#box18{
+    margin-top: -101px;
+    margin-left: 409px;
+    background-color:rgb(138, 7, 98);
+}
+#box19{
+    margin-top: -99px;
+    margin-left: 631px;
+    background-color:rgba(209, 27, 27, 0.726);
+}
+#box20{
+    margin-top: -100px;
+    margin-left: 795px;
+    background-color:rgb(93, 203, 236);
+}  
+#box21{
+    margin-top: -100px;
+    margin-left: 685px;
+    background-color:rgb(7, 68, 87);
+}  

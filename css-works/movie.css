@@ -1,0 +1,36 @@
+img{
+    width: 95%;
+    height: 293px;
+
+    background-color: black;
+ }
+ body {
+     background-color: black;
+
+  }
+  p {
+    
+    color: white;
+    text-align:left;
+
+ }
+ div {
+    background-color: black;
+    width: 20%;
+    float: left;
+
+ }
+ div div {
+    background-color: rgb(212, 228, 74);
+    color: white;
+    text-align:center;
+    width:89% ;
+   
+
+ }
+ h3 {
+    
+    color: white;
+    text-align:center;
+
+ }
